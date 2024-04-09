@@ -1,24 +1,24 @@
 # Lab Report 1
 
 ## 'cd' command prompts
-![Hello](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
+![cd without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
 
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
+![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
 
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.png)
+![cd with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.png)
 
 
 ## 'ls' command prompts
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20no%20args.png)
+![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20no%20args.png)
 
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20directory%20as%20arg.png)
+![ls with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20directory%20as%20arg.png)
 
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20Hello.java%20as%20arg.png)
+![ls with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20Hello.java%20as%20arg.png)
 
 
 ## 'cat' command prompts
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20no%20args1.png)
+![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20no%20args1.png)
 
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20directory%20command.png)
+![cat with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20directory%20command.png)
 
-![Image]([http://url/a.png](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20file%20as%20arg.png))
+![cat with file]((https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20file%20as%20arg.png))
