@@ -6,7 +6,9 @@
 ---
 ![cd without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
 
-The absolute path for this command prompt was `/home/samham/lecture1`.
+*The absolute path for this command prompt was `/home/samham/lecture1`.
+*What the `cd` command does is change your directory, so when you have no directory stated after it, it just changes the directory to the user/home directory.
+*This output is not an error as the command did what it needed to do.
 
 *With a directory*
 ---
