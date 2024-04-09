@@ -2,7 +2,7 @@
 
 
 ## `cd` command prompts
-
+---
 
 *Without any Arguments*
 ---
@@ -38,6 +38,7 @@
 
 
 ## `ls` command prompts
+---
 
 *Without any Arguments*
 ---
@@ -45,11 +46,13 @@
 
 The absolute path for this command prompt was `/home/samham/lecture1`.
 
+
 *With a directory*
 ---
 ![ls with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20directory%20as%20arg.png)
 
 The absolute path for this command prompt was `/home/samham`.
+
 
 *With a file*
 ---
@@ -59,6 +62,7 @@ The absolute path for this command prompt was `/home/samham/lecture1`.
 
 
 ## `cat` command prompts
+---
 
 *Without any Arguments*
 ---
