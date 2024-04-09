@@ -1,6 +1,8 @@
 # Lab Report 1
 
+
 ## `cd` command prompts
+
 
 *Without any Arguments*
 ---
@@ -12,21 +14,27 @@
 
 - This output is not an error as the command did what it needed to do.
 
+
 *With a directory*
 ---
 ![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
 
 - The absolute path for this command prompt was `/home/samham`.
 
-- This code changed the directory from `samham` to `lecture1`.
+- This code changed the directory from `samham` to `lecture1`. This is due to a directory called `lecture1` being in `samham`.
 
 - This output is not an error.
+
 
 *With a file*
 ---
 ![cd with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.png)
 
-The absolute path for this command prompt was `/home/samham/lecture1`.
+- The absolute path for this command prompt was `/home/samham/lecture1`.
+
+- This code attempted to change the directory to a `Hello.java`, but it failed even though `Hello.java` is in `lecture1`
+
+- This is an error because it doesn't do anything in the end and it comes with an message saying that `cd` doesn't work with `Hello.java` because it isn't a directory.
 
 
 ## `ls` command prompts
