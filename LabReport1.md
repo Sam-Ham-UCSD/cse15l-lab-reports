@@ -16,7 +16,11 @@
 ---
 ![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
 
-The absolute path for this command prompt was `/home/samham`.
+- The absolute path for this command prompt was `/home/samham`.
+
+- This code changed the directory from `samham` to `lecture1`.
+
+- This output is not an error.
 
 *With a file*
 ---
