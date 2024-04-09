@@ -1,7 +1,7 @@
 # Lab Report 1
 
 ## 'cd' command prompts
-![Image](http://url/a.png)
+![Image]([http://url/a.png](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png))
 
 ![Image](http://url/a.png)
 
