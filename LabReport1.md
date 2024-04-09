@@ -2,7 +2,7 @@
 
 ## `cd` command prompts
 
-**Without any Arguments**
+*Without any Arguments*
 ---
 ![cd without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
 
