@@ -3,9 +3,9 @@
 ## 'cd' command prompts
 ![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
 
-![Image](http://url/a.png)
+![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
 
-![Image](http://url/a.png)
+![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.png)
 
 
 ## 'ls' command prompts
