@@ -2,6 +2,7 @@
 
 ## 'cd' command prompts
 ![cd without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
+The absolute path for this command prompt was '/home/samham/lecture1'.
 
 ![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
 
