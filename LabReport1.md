@@ -3,7 +3,7 @@
 ## `cd` command prompts
 ---
 
-*Without any Arguments*
+### *Without any Arguments*
 
 ```
 samham@penguin:~/lecture1$ cd
