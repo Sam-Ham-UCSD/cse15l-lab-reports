@@ -1,11 +1,11 @@
 # Lab Report 1
 
-
 ## `cd` command prompts
 ---
 
+
 *Without any Arguments*
----
+
 ```
 samham@penguin:~/lecture1$ cd
 samham@penguin:~/$
@@ -19,7 +19,7 @@ samham@penguin:~/$
 
 
 *With a directory*
----
+
 ```
 samham@penguin:~/$ cd lecture1
 samham@penguin:~/lecture1$
@@ -33,7 +33,7 @@ samham@penguin:~/lecture1$
 
 
 *With a file*
----
+
 ```
 samham@penguin:~/lecture1$ cd Hello.java
 bash: cd: Hello.java: Not a directory
@@ -50,7 +50,7 @@ bash: cd: Hello.java: Not a directory
 ---
 
 *Without any Arguments*
----
+
 ```
 samham@penguin:~/lecture1$ ls
 Hello.class Hello.java messages README workspace.code-workspace
@@ -64,7 +64,7 @@ Hello.class Hello.java messages README workspace.code-workspace
 
 
 *With a directory*
----
+
 ```
 samham@penguin:~/$ ls lecture1
 Hello.class Hello.java messages README workspace.code-workspace
@@ -77,7 +77,7 @@ Hello.class Hello.java messages README workspace.code-workspace
 - This works properly and has no errors occuring.
 
 *With a file*
----
+
 ```
 samham@penguin:~/lecture1$ ls Hello.java
 Hello.java
@@ -93,7 +93,7 @@ Hello.java
 ---
 
 *Without any Arguments*
----
+
 ```
 samham@penguin:~/lecture1$ cat
 
@@ -106,7 +106,7 @@ samham@penguin:~/lecture1$ cat
 - This is an error, though the terminal won't say that. Instead, it will wait for you to input something it recognizes, a file or a directory, forever unless you use `^C` to get out of the loop.
 
 *With a directory*
----
+
 ```
 samham@penguin:~/$ cat lecture1
 cat: lecture1: Is a directory
@@ -119,7 +119,7 @@ cat: lecture1: Is a directory
 - This results in an error as `cat` prints out the content of a file, and directories don't work with it as arguments.
 
 *With a file*
----
+
 ```
 samham@penguin:~/lecture1$ cat messages/sv.txt
 Hej världen! 
