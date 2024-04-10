@@ -6,7 +6,7 @@
 
 *Without any Arguments*
 ---
-![cd without args](cd command with no args.png)
+![cd without args]([cd command with no args.png])
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
