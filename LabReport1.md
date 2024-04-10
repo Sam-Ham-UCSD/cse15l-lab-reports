@@ -6,7 +6,7 @@
 
 *Without any Arguments*
 ---
-![Image][cd command with no args.png]
+![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -17,7 +17,7 @@
 
 *With a directory*
 ---
-![cd with directory](cd command with directory as arg.png)
+![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -28,7 +28,7 @@
 
 *With a file*
 ---
-![cd with file](cd with Hello.java as arg.png)
+![cd with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.png)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
