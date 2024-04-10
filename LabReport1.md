@@ -34,7 +34,7 @@
 
 - This code attempted to change the directory to a `Hello.java`, but it failed even though `Hello.java` is in `lecture1`
 
-- This is an error because it doesn't do anything in the end and it comes with an message saying that `cd` doesn't work with `Hello.java` because it isn't a directory.
+- This is an error because it doesn't do anything in the end and it comes with a message saying that `cd` doesn't work with `Hello.java` because it isn't a directory.
 
 
 ## `ls` command prompts
@@ -44,22 +44,32 @@
 ---
 ![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20no%20args.png)
 
-The absolute path for this command prompt was `/home/samham/lecture1`.
+- The absolute path for this command prompt was `/home/samham/lecture1`.
+
+- The `ls` command lists out the contents of whatever is used as its argument. In this case, since there was no argument, it defaulted to the current working directory, `lecture1`, and printed its contents out.
+
+- This works properly and has no errors occuring.
 
 
 *With a directory*
 ---
 ![ls with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20directory%20as%20arg.png)
 
-The absolute path for this command prompt was `/home/samham`.
+- The absolute path for this command prompt was `/home/samham`.
 
+- hello
+
+- This works properly and has no errors occuring.
 
 *With a file*
 ---
 ![ls with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20Hello.java%20as%20arg.png)
 
-The absolute path for this command prompt was `/home/samham/lecture1`.
+- The absolute path for this command prompt was `/home/samham/lecture1`.
 
+- hello
+
+- This works properly and has no errors occuring.
 
 ## `cat` command prompts
 ---
@@ -68,16 +78,28 @@ The absolute path for this command prompt was `/home/samham/lecture1`.
 ---
 ![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20no%20args1.png)
 
-The absolute path for this command prompt was `/home/samham/lecture1`.
+- The absolute path for this command prompt was `/home/samham/lecture1`.
+
+- hello
+
+- hello
 
 *With a directory*
 ---
 ![cat with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20directory%20command.png)
 
-The absolute path for this command prompt was `/home/samham`.
+- The absolute path for this command prompt was `/home/samham`.
+
+- hello
+
+- This works properly and has no errors occuring.
 
 *With a file*
 ---
 ![cat with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20file%20as%20arg.png)
 
-The absolute path for this command prompt was `/home/samham/lecture1`.
+- The absolute path for this command prompt was `/home/samham/lecture1`.
+
+- hello
+
+- hello
