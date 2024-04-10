@@ -86,7 +86,7 @@
 
 *With a directory*
 ---
-![cat with directory](https://sam-ham-ucsd.github.io/cse15l-lab-reports/cat%20command%20with%20directory%20command.JPG)
+![cat with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/catDirect.png)
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -96,7 +96,7 @@
 
 *With a file*
 ---
-![cat with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20file%20as%20arg.JPG)
+![cat with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/catFile.png)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
