@@ -6,7 +6,7 @@
 
 *Without any Arguments*
 ---
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.png)
+![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -17,7 +17,7 @@
 
 *With a directory*
 ---
-![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.png)
+![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.jpg)
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -28,7 +28,7 @@
 
 *With a file*
 ---
-![cd with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.png)
+![cd with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20with%20Hello.java%20as%20arg.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -42,7 +42,7 @@
 
 *Without any Arguments*
 ---
-![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20no%20args.png)
+![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20no%20args.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -53,7 +53,7 @@
 
 *With a directory*
 ---
-![ls with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20directory%20as%20arg.png)
+![ls with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20directory%20as%20arg.jpg)
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -63,7 +63,7 @@
 
 *With a file*
 ---
-![ls with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20Hello.java%20as%20arg.png)
+![ls with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20Hello.java%20as%20arg.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -76,7 +76,7 @@
 
 *Without any Arguments*
 ---
-![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20no%20args1.png)
+![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20no%20args1.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -86,7 +86,7 @@
 
 *With a directory*
 ---
-![cat with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20directory%20command.png)
+![cat with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20directory%20command.jpg)
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -96,7 +96,7 @@
 
 *With a file*
 ---
-![cat with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20file%20as%20arg.png)
+![cat with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20file%20as%20arg.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
