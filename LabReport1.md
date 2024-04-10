@@ -1,7 +1,7 @@
 # Lab Report 1
 
 ## `cd` command prompts
----
+
 
 ### *Without any Arguments*
 
@@ -49,7 +49,7 @@ bash: cd: Hello.java: Not a directory
 
 
 ## `ls` command prompts
----
+
 
 ### *Without any Arguments*
 
@@ -97,7 +97,7 @@ Hello.java
 
 
 ## `cat` command prompts
----
+
 
 ### *Without any Arguments*
 
