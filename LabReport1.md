@@ -1,5 +1,7 @@
 # Lab Report 1
 
+By Sammy Hamouda
+
 ## `cd` command prompts
 
 
