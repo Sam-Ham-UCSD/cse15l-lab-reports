@@ -76,7 +76,7 @@
 
 *Without any Arguments*
 ---
-![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cat%20command%20with%20no%20args1.JPG)
+![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/catOne.png)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
