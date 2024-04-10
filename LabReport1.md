@@ -6,7 +6,10 @@
 
 *Without any Arguments*
 ---
-![cd with no args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cdOne.png)
+```
+samham@penguin:~/lecture1$ cd
+samham@penguin:~/$
+```
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -17,7 +20,10 @@
 
 *With a directory*
 ---
-![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cdDirect.png)
+```
+samham@penguin:~/$ cd lecture1
+samham@penguin:~/lecture1$
+```
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -28,7 +34,10 @@
 
 *With a file*
 ---
-![cd with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cdFile.png)
+```
+samham@penguin:~/lecture1$ cd Hello.java
+bash: cd: Hello.java: Not a directory
+```
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -42,7 +51,10 @@
 
 *Without any Arguments*
 ---
-![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/lsOne.png)
+```
+samham@penguin:~/lecture1$ ls
+Hello.class Hello.java messages README workspace.code-workspace
+```
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -53,7 +65,10 @@
 
 *With a directory*
 ---
-![ls with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/lsDirect.png)
+```
+samham@penguin:~/$ ls lecture1
+Hello.class Hello.java messages README workspace.code-workspace
+```
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -63,7 +78,10 @@
 
 *With a file*
 ---
-![ls with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/lsFile.png)
+```
+samham@penguin:~/lecture1$ ls Hello.java
+Hello.java
+```
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -76,7 +94,10 @@
 
 *Without any Arguments*
 ---
-![cat without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/catOne.png)
+```
+samham@penguin:~/lecture1$ cat
+
+```
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -86,7 +107,10 @@
 
 *With a directory*
 ---
-![cat with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/catDirect.png)
+```
+samham@penguin:~/$ cat lecture1
+cat: lecture1: Is a directory
+```
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -96,7 +120,10 @@
 
 *With a file*
 ---
-![cat with file](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/catFile.png)
+```
+samham@penguin:~/lecture1$ cat messages/sv.txt
+Hej världen! 
+```
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
