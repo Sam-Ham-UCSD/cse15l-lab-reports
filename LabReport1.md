@@ -6,7 +6,7 @@
 
 *Without any Arguments*
 ---
-![cd with no args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.JPG)
+![cd with no args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cdOne.png)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
@@ -17,7 +17,7 @@
 
 *With a directory*
 ---
-![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20directory%20as%20arg.JPG)
+![cd with directory](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cdDirect.png)
 
 - The absolute path for this command prompt was `/home/samham`.
 
@@ -42,7 +42,7 @@
 
 *Without any Arguments*
 ---
-![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/ls%20command%20with%20no%20args.JPG)
+![ls without args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cdFile.png)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
