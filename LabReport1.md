@@ -6,7 +6,7 @@
 
 *Without any Arguments*
 ---
-![Image](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.jpg)
+![cd with no args](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/cd%20command%20with%20no%20args.jpg)
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
