@@ -3,7 +3,6 @@
 ## `cd` command prompts
 ---
 
-
 *Without any Arguments*
 
 ```
@@ -16,6 +15,7 @@ samham@penguin:~/$
 - What the `cd` command does is change your directory, so when you have no directory stated after it, it just changes the directory to the user/home directory.
 
 - This output is not an error as the command did what it needed to do.
+
 
 
 *With a directory*
@@ -32,6 +32,7 @@ samham@penguin:~/lecture1$
 - This output is not an error.
 
 
+
 *With a file*
 
 ```
@@ -44,6 +45,7 @@ bash: cd: Hello.java: Not a directory
 - This code attempted to change the directory to a `Hello.java`, but it failed even though `Hello.java` is in `lecture1`
 
 - This is an error because it doesn't do anything in the end and it comes with a message saying that `cd` doesn't work with `Hello.java` because it isn't a directory.
+
 
 
 ## `ls` command prompts
@@ -63,6 +65,7 @@ Hello.class Hello.java messages README workspace.code-workspace
 - This works properly and has no errors occuring.
 
 
+
 *With a directory*
 
 ```
@@ -76,6 +79,8 @@ Hello.class Hello.java messages README workspace.code-workspace
 
 - This works properly and has no errors occuring.
 
+
+
 *With a file*
 
 ```
@@ -88,6 +93,8 @@ Hello.java
 - Using the `ls` command with a file just prints out what you put as the argument, for example, if I put the entire path to the `Hello.java` file, it would just print out what I wrote.
 
 - This works properly and has no errors occuring.
+
+
 
 ## `cat` command prompts
 ---
@@ -105,6 +112,8 @@ samham@penguin:~/lecture1$ cat
 
 - This is an error, though the terminal won't say that. Instead, it will wait for you to input something it recognizes, a file or a directory, forever unless you use `^C` to get out of the loop.
 
+
+
 *With a directory*
 
 ```
@@ -117,6 +126,8 @@ cat: lecture1: Is a directory
 - Using `cat` with a directory as an argument ends up with the terminal printing an error message saying that `lecture1` is a directory.
 
 - This results in an error as `cat` prints out the content of a file, and directories don't work with it as arguments.
+
+
 
 *With a file*
 
