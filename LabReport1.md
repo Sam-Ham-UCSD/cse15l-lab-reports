@@ -18,7 +18,7 @@ samham@penguin:~/$
 
 
 
-*With a directory*
+### *With a directory*
 
 ```
 samham@penguin:~/$ cd lecture1
@@ -33,7 +33,7 @@ samham@penguin:~/lecture1$
 
 
 
-*With a file*
+### *With a file*
 
 ```
 samham@penguin:~/lecture1$ cd Hello.java
@@ -51,7 +51,7 @@ bash: cd: Hello.java: Not a directory
 ## `ls` command prompts
 ---
 
-*Without any Arguments*
+### *Without any Arguments*
 
 ```
 samham@penguin:~/lecture1$ ls
@@ -66,7 +66,7 @@ Hello.class Hello.java messages README workspace.code-workspace
 
 
 
-*With a directory*
+### *With a directory*
 
 ```
 samham@penguin:~/$ ls lecture1
@@ -81,7 +81,7 @@ Hello.class Hello.java messages README workspace.code-workspace
 
 
 
-*With a file*
+### *With a file*
 
 ```
 samham@penguin:~/lecture1$ ls Hello.java
@@ -99,7 +99,7 @@ Hello.java
 ## `cat` command prompts
 ---
 
-*Without any Arguments*
+### *Without any Arguments*
 
 ```
 samham@penguin:~/lecture1$ cat
@@ -114,7 +114,7 @@ samham@penguin:~/lecture1$ cat
 
 
 
-*With a directory*
+### *With a directory*
 
 ```
 samham@penguin:~/$ cat lecture1
@@ -129,7 +129,7 @@ cat: lecture1: Is a directory
 
 
 
-*With a file*
+### *With a file*
 
 ```
 samham@penguin:~/lecture1$ cat messages/sv.txt
