@@ -16,3 +16,4 @@
 ![loggingInWithoutPassword.png](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/images/LB2/loggingInWithoutPassword.png)
 
 ## Part 3
+Something that I learned from lab that I didn't know before would be that I would be logging into a computer remotely. While I did know we could from lecture, I didn't know how to do so myself before lab.
