@@ -11,21 +11,21 @@
 
 #### /add-message Sample 2
 ![BobMessage.png](/images/LB2/BobMessage.png)
-* Which methods in your code are called?
-* What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-* How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+* The only method called in my code that is called is `handleRequest` in the `Hander` class, which implements the interface `URLHandler`.
+* The relevant argument for `handleRequest` is `url` of type `URL` which in this case is http://localhost:4020/add-message?s=Wow!%20You%20are%20amazing!&user=Bob, and the value of the field `conversation` of the class is before the method is run is this point `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code!"`.
+* My value `conversation` got changed to `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code! \n Bob: Wow! You are amazing!"`.
 
 ## Part 2
 
-1. Using the ls command with the absolute path to the private key:
+* Using the ls command with the absolute path to the private key:
 
 ![lsCommandForPrivate.png](/images/LB2/lsCommandForPrivate.png)
 
-2. Using the ls command from the remote server for the absolute path to the public key:
+* Using the ls command from the remote server for the absolute path to the public key:
 
 ![lsCommandForPublicFromRemote.png](/images/LB2/lsCommandForPublicFromRemote.png)
 
-3. Logging in to the remote server without a password:
+* Logging in to the remote server without a password:
 
 ![loggingInWithoutPassword.png](/images/LB2/loggingInWithoutPassword.png)
 
