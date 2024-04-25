@@ -1,10 +1,19 @@
 # Lab Report 2
 ## Part 1
+### My Code
 ![ChatServer_Code.png](/images/LB2/ChatServerCode.png)
 
+#### /add-message Sample 1
 ![CreatorMessage.png](/images/LB2/CreatorMessage.png)
+* Which methods in your code are called?
+* What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+* How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 
+#### /add-message Sample 2
 ![BobMessage.png](/images/LB2/BobMessage.png)
+* Which methods in your code are called?
+* What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+* How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 
 ## Part 2
 
@@ -21,4 +30,4 @@
 ![loggingInWithoutPassword.png](/images/LB2/loggingInWithoutPassword.png)
 
 ## Part 3
-Something that I learned from lab that I didn't know before would be that I would be logging into a computer remotely. While I did know we could from lecture, I didn't know how to do so myself before lab.
+Something that I learned from lab that I didn't know before would be the meyjod to logging into a computer remotely. While I did know we could from lecture, I didn't know how to do so myself before lab.
