@@ -6,13 +6,13 @@
 #### /add-message Sample 1
 ![CreatorMessage.png](/images/LB2/CreatorMessage.png)
 * The only method called in my code that is called is `handleRequest` in the `Hander` class, which implements the interface `URLHandler`.
-* The relevant argument for `handleRequest` is `url` of type `URL` which in this case is http://localhost:4020/add-message?s=It%20is%20a%20me!%20The%20creator%20of%20this%20server's%20code!&user=Bob, and the value of the field `conversation` of the class is before the method is run is this point `"Sammy: Hello!"`.
+* The relevant argument for `handleRequest` is `url` of type `URL` which in this case is http://localhost:4020/add-message?s=It%20is%20a%20me!%20The%20creator%20of%20this%20server's%20code!&user=Bob, and the value of the field `conversation` of the class before the method is run is this point `"Sammy: Hello!"`.
 * My value `conversation` got changed to `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code!"`.
 
 #### /add-message Sample 2
 ![BobMessage.png](/images/LB2/BobMessage.png)
 * The only method called in my code that is called is `handleRequest` in the `Hander` class, which implements the interface `URLHandler`.
-* The relevant argument for `handleRequest` is `url` of type `URL` which in this case is http://localhost:4020/add-message?s=Wow!%20You%20are%20amazing!&user=Bob, and the value of the field `conversation` of the class is before the method is run is this point `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code!"`.
+* The relevant argument for `handleRequest` is `url` of type `URL` which in this case is http://localhost:4020/add-message?s=Wow!%20You%20are%20amazing!&user=Bob, and the value of the field `conversation` of the class before the method is run is this point `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code!"`.
 * My value `conversation` got changed to `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code! \n Bob: Wow! You are amazing!"`.
 
 ## Part 2
