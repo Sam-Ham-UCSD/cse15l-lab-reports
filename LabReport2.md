@@ -1,6 +1,6 @@
-# Lab Report 1
+# Lab Report 2
 ## Part 1
-![ChatServer_Code.png](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/images/LB2/ChatServerCode.png)
+![ChatServer_Code.png](/images/LB2/ChatServerCode.png)
 
 ![CreatorMessage.png](https://github.com/Sam-Ham-UCSD/cse15l-lab-reports/blob/main/images/LB2/CreatorMessage.png)
 
