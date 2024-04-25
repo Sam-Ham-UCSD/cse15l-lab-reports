@@ -14,7 +14,7 @@ samham@penguin:~/$
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
-- What the `cd` command does is change your directory, so when you have no directory stated after it, it just changes the directory to the user/home directory.
+- What the `cd` command does is change your directory, so when you have no directory stated after it, it just changes the directory to the `user/home` directory.
 
 - This output is not an error as the command did what it needed to do.
 
@@ -29,7 +29,7 @@ samham@penguin:~/lecture1$
 
 - The absolute path for this command prompt was `/home/samham`.
 
-- This code changed the directory from `samham` to `lecture1`. This is due to a directory called `lecture1` being in `samham`.
+- This code changed the directory from `/home/samham` to `/home/samham/lecture1`. This is due to a directory called `lecture1` being in `samham`.
 
 - This output is not an error.
 
@@ -44,7 +44,7 @@ bash: cd: Hello.java: Not a directory
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
-- This code attempted to change the directory to a `Hello.java`, but it failed even though `Hello.java` is in `lecture1`
+- This code attempted to change the directory to a `Hello.java`, but it failed even though `Hello.java` is in `lecture1` as it is a file and not a directory.
 
 - This is an error because it doesn't do anything in the end and it comes with a message saying that `cd` doesn't work with `Hello.java` because it isn't a directory.
 
@@ -62,7 +62,7 @@ Hello.class Hello.java messages README workspace.code-workspace
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
-- The `ls` command lists out the contents of whatever is used as its argument. In this case, since there was no argument, it defaulted to the current working directory, `lecture1`, and printed its contents out.
+- The `ls` command lists out the contents of whatever is used as its argument. In this case, since there was no argument, it defaulted to the current working directory, `/home/samham/lecture1`, and printed its contents out.
 
 - This works properly and has no errors occuring.
 
@@ -92,7 +92,7 @@ Hello.java
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
-- Using the `ls` command with a file just prints out what you put as the argument, for example, if I put the entire path to the `Hello.java` file, it would just print out what I wrote.
+- Using the `ls` command with a file just prints out what you put as the argument as long as you don't use any other options, for example, if I put the entire path to the `Hello.java` file, it would just print out what I wrote. This is also only possible as the file is in the directory I am working in, if it was in another, this code would throw an error, saying that the file doesn't exist.
 
 - This works properly and has no errors occuring.
 
@@ -110,9 +110,9 @@ samham@penguin:~/lecture1$ cat
 
 - The absolute path for this command prompt was `/home/samham/lecture1`.
 
-- When trying to use the `cat` command with no arguments, nothing is printed out.
+- When trying to use the `cat` command with no arguments, it uses the standard input, which includes doing `cat < <filename>`, assigning the file as its standard input. The standard output would then be the result of using `cat` with `<filename>`. `cat` in this case doesn't do anything as I haven't given it a standard input.
 
-- This is an error, though the terminal won't say that. Instead, it will wait for you to input something it recognizes, a file or a directory, forever unless you use `^C` to get out of the loop.
+- This isn't an error, although it looks like it as cat doesn't have a standard input and standard output for my code.
 
 
 
