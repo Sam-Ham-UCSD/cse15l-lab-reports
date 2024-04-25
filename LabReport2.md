@@ -5,9 +5,9 @@
 
 #### /add-message Sample 1
 ![CreatorMessage.png](/images/LB2/CreatorMessage.png)
-* Which methods in your code are called?
-* What are the relevant arguments to those methods, and the values of any relevant fields of the class?
-* How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+* The only method called in my code that is called is `handleRequest` in the `Hander` class, which implements the interface `URLHandler`.
+* The relevant argument for `handleRequest` is `url` of type `URL` which in this case is http://localhost:4020/add-message?s=It%20is%20a%20me!%20The%20creator%20of%20this%20server's%20code!&user=Bob, and the value of the field `conversation` of the class is before the method is run is this point `"Sammy: Hello!"`.
+* My value `conversation` got changed to `"Sammy: Hello! \n Sammy: It is a me! The creator of this server's code!"`.
 
 #### /add-message Sample 2
 ![BobMessage.png](/images/LB2/BobMessage.png)
