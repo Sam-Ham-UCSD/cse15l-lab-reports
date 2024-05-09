@@ -26,7 +26,7 @@ public void testAverageWithoutLowestEmpty(){
 
 
 ### 3. Symptom output
-![TestOutput.png]()
+![TestOutput.png](/images/LB3/TestOutput.png)
 
 
 
@@ -34,8 +34,18 @@ public void testAverageWithoutLowestEmpty(){
 
 #### Before
 ```
-samham@penguin:~/lecture1$ cd Hello.java
-bash: cd: Hello.java: Not a directory
+static double averageWithoutLowest(double[] arr) {
+  if(arr.length < 2) { return 0.0; }
+  double lowest = arr[0];
+  for(double num: arr) {
+    if(num < lowest) { lowest = num; }
+  }
+  double sum = 0;
+  for(double num: arr) {
+    if(num != lowest) { sum += num; }
+  }
+  return sum / (arr.length - 1);
+}
 ```
 
 #### After
@@ -60,7 +70,7 @@ static double averageWithoutLowest(double[] arr) {
 ```
 
 ### How the fix works
-
+The original bug was the fact that averageWithoutLowest didn't account for the fact that there could be duplicates of the lowest number. This led to the average without being incorrectly calcuated. My fix addresses this by adding a counter that counts how many times the lowest number appears in the array, and then subtracting the array length by that count instead of just 1, which doesn't account for the fact that multiple numbers are possibly taken out of the lowest number appears multiple times.
 
 ## Part 2 - Researching Commands
 
