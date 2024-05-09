@@ -26,7 +26,7 @@ public void testAverageWithoutLowestEmpty(){
 
 
 ### 3. Symptom output
-![TestOutput.png](/images/LB3/TestOutput.png)
+![TestOutput.png](images/LB3/TestOutput.png)
 
 
 
