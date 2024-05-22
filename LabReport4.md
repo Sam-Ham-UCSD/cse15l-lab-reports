@@ -4,18 +4,10 @@ By Sammy Hamouda
 
 ## Step 4
 
-### 1. Failure-inducing code
+![loggingIn.png](images/LB4/logging into ieng6 lab7.png)
 
-```
-@Test
-public void testAverageWithoutLowest(){
-  double[] input = {3.400, 5.50, 2.10, 2.100};
-  assertEquals(4.45, ArrayExamples.averageWithoutLowest(input), 0.1);
-} 
-```
-
-### 3. Symptom output
-![TestOutput.png](images/LB3/TestOutput.png)
+Keys pressed: `up` and `enter`
+Explanation: I had the command for logging into my ieng6 account one command above so I used that to skip the typing process.
 
 ## Step 5
 
